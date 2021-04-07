@@ -12,5 +12,5 @@
 
 ---
 
-![](https://www.codewars.com/users/silv999r/badges/medium)
+![](https://www.codewars.com/users/silv999r/badges/micro)
 
