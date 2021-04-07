@@ -10,7 +10,6 @@
 
 <br/>
 
- <br />
 
 <img align="left" alt="JavaScript" width="128px" src="https://cdn3.iconfinder.com/data/icons/impossible-shapes-volume-3/128/4a-512.png" />
 
