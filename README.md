@@ -16,10 +16,6 @@
 
 ---
 
-<br />
-<br />
-<br>
-
 ![](https://www.codewars.com/users/silv999r/badges/large)
 
 
