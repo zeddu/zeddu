@@ -15,8 +15,6 @@
 
 </p>
 
----
-
 
 <p align="center">
 
