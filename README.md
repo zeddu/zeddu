@@ -8,12 +8,6 @@
 
 </p>
 
-<p align="center">
-  
-<img src="https://www.codewars.com/users/silv999r/badges/micro" />
-
-</p>
-
 
 <h2 align="center"> 🛠 Tools</h2>
 
@@ -45,6 +39,8 @@
 </p>
 
 
+<p align="center">
+  
+<img src="https://www.codewars.com/users/silv999r/badges/micro" />
 
-
-
+</p>
