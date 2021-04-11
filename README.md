@@ -34,9 +34,16 @@
  <img src="https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white&style=plastic" />
  <img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=plastic" />
  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=plastic" />
+</p>
+
+<p align="center">
+  
  <img src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white&style=plastic" />
  <img src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white&style=plastic" />
+ <img src="https://img.shields.io/badge/-Netlify-00C7B7?logo=Git&logoColor=white&style=plastic" />
+ <img src="https://img.shields.io/badge/-Heroku-430098?logo=npm&logoColor=white&style=plastic" />
 </p>
+
 
 
 
