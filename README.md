@@ -9,7 +9,7 @@
 </p>
 
 
-<h2 align="center"> 🛠 Tools of the trade</h2>
+<h2 align="center"> 🛠 Main tools</h2>
 
 <p align="center">
 
