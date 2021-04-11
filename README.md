@@ -9,7 +9,7 @@
 </p>
 
 
-<h2 align="center"> 🛠 Tools</h2>
+<h2 align="center"> 🛠 Tools <img src="https://www.codewars.com/users/silv999r/badges/micro" /></h2>
 
 <p align="center">
 
