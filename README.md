@@ -25,6 +25,14 @@ CSS :
 
 <p align="center">
   
+ Frontend : 
+ <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=plastic" />
+ <img src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=plastic" />
+ 
+</p>
+
+<p align="center">
+  
  Backend : 
  <img src="https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white&style=plastic" />
  <img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=plastic" />
@@ -34,9 +42,9 @@ CSS :
 <p align="center">
   
 Databases :
+ <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=plastic" />
  <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=plastic" />
  <img src="https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=plastic" />
- <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=plastic" />
  <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white&style=plastic" />
 </p>
 
