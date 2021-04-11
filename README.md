@@ -44,10 +44,15 @@
 
 <p align="center">
   
- <img src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white&style=plastic" />
- <img src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white&style=plastic" />
  <img src="https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white&style=plastic" />
  <img src="https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white&style=plastic" />
+ <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white&style=plastic" />
+</p>
+
+<p align="center">
+  
+ <img src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white&style=plastic" />
+ <img src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white&style=plastic" />
  <img src="https://img.shields.io/badge/-VS Code-007ACC?logo=visual%20studio%20code&logoColor=white&style=plastic" />
 </p>
 
