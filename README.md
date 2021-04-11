@@ -1,4 +1,4 @@
-![](https://www.codewars.com/users/silv999r/badges/micro)
+
 
 <h2 align="center"> 🛠 Tools of Trade</h2>
 <p align="center">
@@ -11,6 +11,7 @@
   <img src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white&style=plastic" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white&style=plastic" />&nbsp;&nbsp;&nbsp;
   
+  ![](https://www.codewars.com/users/silv999r/badges/micro)
   
 </p>
 
