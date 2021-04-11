@@ -65,7 +65,7 @@ Databases :
  <img src="https://img.shields.io/badge/-VS Code-007ACC?logo=visual%20studio%20code&logoColor=white&style=plastic" />
 </p>
 
-<p align="center">
+<p align="left">
   
 <img src="https://www.codewars.com/users/silv999r/badges/small" />
 
