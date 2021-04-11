@@ -1,12 +1,4 @@
-<p align="left">
 
-<img alt="Impossible" width="96px" src="https://i.pinimg.com/originals/9b/a2/71/9ba271bda9f06336c7cb07a76d8b4c49.png" />
-
-<img alt="Impossible" width="96px" src="https://cdn3.iconfinder.com/data/icons/impossible-shapes-volume-3/128/1a-512.png" />
-
-<img alt="Impossible" width="96px" src="https://i.pinimg.com/originals/a9/dc/3a/a9dc3ab32e0be9a8a9ba5c6c728b4a00.png" />
-
-</p>
 
 
 <h2 align="left"> 🛠 Main tools</h2>
@@ -71,3 +63,14 @@ Databases :
 
 </p>
 
+---
+
+<p align="left">
+
+<img alt="Impossible" width="96px" src="https://i.pinimg.com/originals/9b/a2/71/9ba271bda9f06336c7cb07a76d8b4c49.png" />
+
+<img alt="Impossible" width="96px" src="https://cdn3.iconfinder.com/data/icons/impossible-shapes-volume-3/128/1a-512.png" />
+
+<img alt="Impossible" width="96px" src="https://i.pinimg.com/originals/a9/dc/3a/a9dc3ab32e0be9a8a9ba5c6c728b4a00.png" />
+
+</p>
