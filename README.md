@@ -28,7 +28,17 @@
  <img src="https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white&style=plastic" />
  <img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=plastic" />
  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=plastic" />
+ <img src="https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind%20css&logoColor=white&style=plastic" />
 </p>
+
+<p align="center">
+  
+ <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=plastic" />
+ <img src="https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=plastic" />
+ <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=plastic" />
+ <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white&style=plastic" />
+</p>
+
 
 <p align="center">
   
@@ -36,6 +46,7 @@
  <img src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white&style=plastic" />
  <img src="https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white&style=plastic" />
  <img src="https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white&style=plastic" />
+ <img src="https://img.shields.io/badge/-VS Code-007ACC?logo=visual%20studio%20code&logoColor=white&style=plastic" />
 </p>
 
 <p align="center">
