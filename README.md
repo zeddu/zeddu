@@ -40,7 +40,7 @@
 
 <p align="center">
   
-<img src="https://www.codewars.com/users/silv999r/badges/micro" />
+<img src="https://www.codewars.com/users/silv999r/badges/small" />
 
 </p>
 
