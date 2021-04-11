@@ -18,8 +18,8 @@ Main languages :
   
 CSS : 
  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=plastic" />
- <img src="https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind%20css&logoColor=white&style=plastic" />
  <img src="https://img.shields.io/badge/-Bulma-00D1B2?logo=bulma&logoColor=white&style=plastic" />
+ <img src="https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind%20css&logoColor=white&style=plastic" />
  <img src="https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white&style=plastic" />
 </p>
 
