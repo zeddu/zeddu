@@ -1,6 +1,6 @@
 
 
-<h2 align="center"> 🛠 Tools of Trade</h2>
+<h1 align="center"> 🛠 Tools of trade</h1>
 <p align="center">
 
   <img src="https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white&style=plastic" />&nbsp;&nbsp;&nbsp;
