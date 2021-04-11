@@ -26,7 +26,6 @@
   <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=plastic" />
   <img src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white&style=plastic" />
   <img src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white&style=plastic" />
-  <img src="https://www.codewars.com/users/silv999r/badges/micro" />
 
 </p>
 
