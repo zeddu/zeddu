@@ -14,11 +14,9 @@
   
 </p>
 
-<br />
-<br />
-<br />
-
 ---
+
+
 
 <img align="left" alt="JavaScript" width="128px" src="https://cdn3.iconfinder.com/data/icons/impossible-shapes-volume-3/128/4a-512.png" />
 
@@ -30,8 +28,6 @@
 
 <img align="left" alt="JavaScript" width="128px" src="https://static.thenounproject.com/png/372365-200.png" />
 
-
----
 
 
 
