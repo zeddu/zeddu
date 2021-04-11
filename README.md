@@ -43,6 +43,7 @@ CSS :
   
 Databases :
  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=plastic" />
+ <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=plastic" />
  <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=plastic" />
  <img src="https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=plastic" />
  <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white&style=plastic" />
