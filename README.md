@@ -38,10 +38,12 @@
  <img src="https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white&style=plastic" />
 </p>
 
+
+---
+
 <p align="center">
   
 <img src="https://www.codewars.com/users/silv999r/badges/small" />
 
 </p>
 
----
