@@ -1,6 +1,7 @@
 
 
 <h2 align="center"> 🛠 Tools of trade</h2>
+
 <p align="center">
 
   <img src="https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white&style=plastic" />&nbsp;&nbsp;&nbsp;
@@ -19,15 +20,15 @@
 
 <p align="center">
   
-<img alt="JavaScript" width="128px" src="https://cdn3.iconfinder.com/data/icons/impossible-shapes-volume-3/128/4a-512.png" />
+<img alt="Impossible" width="128px" src="https://cdn3.iconfinder.com/data/icons/impossible-shapes-volume-3/128/4a-512.png" />
 
-<img alt="JavaScript" width="128px" src="https://i.pinimg.com/originals/9b/a2/71/9ba271bda9f06336c7cb07a76d8b4c49.png" />
+<img alt="Impossible" width="128px" src="https://i.pinimg.com/originals/9b/a2/71/9ba271bda9f06336c7cb07a76d8b4c49.png" />
 
-<img alt="JavaScript" width="128px" src="https://cdn3.iconfinder.com/data/icons/impossible-shapes-volume-3/128/1a-512.png" />
+<img alt="Impossible" width="128px" src="https://cdn3.iconfinder.com/data/icons/impossible-shapes-volume-3/128/1a-512.png" />
 
-<img alt="JavaScript" width="128px" src="https://i.pinimg.com/originals/a9/dc/3a/a9dc3ab32e0be9a8a9ba5c6c728b4a00.png" />
+<img alt="Impossible" width="128px" src="https://i.pinimg.com/originals/a9/dc/3a/a9dc3ab32e0be9a8a9ba5c6c728b4a00.png" />
 
-<img alt="JavaScript" width="128px" src="https://static.thenounproject.com/png/372365-200.png" />
+<img alt="Impossible" width="128px" src="https://static.thenounproject.com/png/372365-200.png" />
 
 </p>
 
