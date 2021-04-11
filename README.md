@@ -20,6 +20,7 @@
 <p align="center">
 
   <img src="https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white&style=plastic" />
+  <img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=plastic" />
   <img src="https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=white&style=plastic" />
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=plastic" />
   <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=plastic" />
