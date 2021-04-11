@@ -20,11 +20,11 @@ Main languages :
   <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=plastic" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=plastic" />
 
-
 </p>
 
 <p align="center">
   
+CSS : 
  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=plastic" />
  <img src="https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind%20css&logoColor=white&style=plastic" />
  <img src="https://img.shields.io/badge/-Bulma-00D1B2?logo=bulma&logoColor=white&style=plastic" />
