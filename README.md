@@ -67,6 +67,7 @@ Databases:
   Other tools:  
  <img src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white&style=flat" />
  <img src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white&style=flat" />
+ <img src="https://img.shields.io/badge/-Excel-217346?logo=microsoft%20excel&logoColor=white&style=flat" />
  <img src="https://img.shields.io/badge/-Insomnia-5849BE?logo=insomnia&logoColor=white&style=flat" />
  <img src="https://img.shields.io/badge/-VS Code-007ACC?logo=visual%20studio%20code&logoColor=white&style=flat" />
  <img src="https://img.shields.io/badge/-Jamstack-F0047F?logo=jamstack&logoColor=white&style=flat" />
