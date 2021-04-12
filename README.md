@@ -70,6 +70,7 @@ Databases:
  <img src="https://img.shields.io/badge/-Word-2B579A?logo=microsoft%20word&logoColor=white&style=flat" />
  <img src="https://img.shields.io/badge/-Outlook-0078D4?logo=microsoft%20outlook&logoColor=white&style=flat" />
  <img src="https://img.shields.io/badge/-Onenote-7719AA?logo=microsoft%20onenote&logoColor=white&style=flat" />
+ <img src="https://img.shields.io/badge/-SharePoint-0078D4?logo=microsoft%20sharepoint&logoColor=white&style=flat" />
  <img src="https://img.shields.io/badge/-Microsoft Office-D83B01?logo=microsoft%20office&logoColor=white&style=flat" />
  
 </p>
@@ -78,6 +79,7 @@ Databases:
  <img src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white&style=flat" />
  <img src="https://img.shields.io/badge/-Insomnia-5849BE?logo=insomnia&logoColor=white&style=flat" />
  <img src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white&style=flat" />
+ <img src="https://img.shields.io/badge/-MailChimp-FFE01B?logo=mailchimp&logoColor=white&style=flat" />
  <img src="https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobe%20photoshop&logoColor=white&style=flat" />
  <img src="https://img.shields.io/badge/-Jamstack-F0047F?logo=jamstack&logoColor=white&style=flat" />
  <img src="https://img.shields.io/badge/-Wordpress-21759B?logo=wordpress&logoColor=white&style=flat" />
