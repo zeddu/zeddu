@@ -1,6 +1,3 @@
-<img src="https://www.codewars.com/users/silv999r/badges/micro" />
-
-
 <h2 align="left"> 🛠 Main tools & learning <img src="https://www.codewars.com/users/silv999r/badges/micro" /></h2>
 
 
