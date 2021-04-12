@@ -65,7 +65,6 @@ Databases:
 <p align="center">
   
   Other tools:  
- <img src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white&style=flat" />
  <img src="https://img.shields.io/badge/-VS Code-007ACC?logo=visual%20studio%20code&logoColor=white&style=flat" />
  <img src="https://img.shields.io/badge/-Excel-217346?logo=microsoft%20excel&logoColor=white&style=flat" />
  <img src="https://img.shields.io/badge/-Word-2B579A?logo=microsoft%20word&logoColor=white&style=flat" />
@@ -77,6 +76,7 @@ Databases:
 </p>
 
  <p align="left">
+ <img src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white&style=flat" />
  <img src="https://img.shields.io/badge/-Insomnia-5849BE?logo=insomnia&logoColor=white&style=flat" />
  <img src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white&style=flat" />
  <img src="https://img.shields.io/badge/-MailChimp-FFE01B?logo=mailchimp&logoColor=white&style=flat" />
@@ -91,6 +91,6 @@ Databases:
 <p align="center">
   
   Cerificates:    
- [<img src="https://img.shields.io/badge/-Responsive Web Design (300h)-0A0A23?logo=freeCodeCamp&logoColor=white&style=flat" />](https://www.freecodecamp.org/certification/zed-foxhound/responsive-web-design "View certificate on freeCodeCamp")
+ [<img src="https://img.shields.io/badge/-freeCodeCamp \- Responsive Web Design (300h)-0A0A23?logo=freeCodeCamp&logoColor=white&style=flat" />](https://www.freecodecamp.org/certification/zed-foxhound/responsive-web-design "View certificate on freeCodeCamp")
 </p>
 
