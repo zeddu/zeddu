@@ -65,21 +65,24 @@ Databases:
 <p align="center">
   
   Other tools:  
- <img src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white&style=flat" />
- <img src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white&style=flat" />
+
  <img src="https://img.shields.io/badge/-Excel-217346?logo=microsoft%20excel&logoColor=white&style=flat" />
- <img src="https://img.shields.io/badge/-Insomnia-5849BE?logo=insomnia&logoColor=white&style=flat" />
+ <img src="https://img.shields.io/badge/-Word-2B579A?logo=microsoft%word&logoColor=white&style=flat" />
+ <img src="https://img.shields.io/badge/-Outlook-0078D4?logo=microsoft%outlook&logoColor=white&style=flat" />
+ <img src="https://img.shields.io/badge/-Onenote-7719AA?logo=microsoft%onenote&logoColor=white&style=flat" />
  <img src="https://img.shields.io/badge/-VS Code-007ACC?logo=visual%20studio%20code&logoColor=white&style=flat" />
- 
+ <img src="https://img.shields.io/badge/-Microsoft Office-D83B01?logo=microsoft%20office&logoColor=white&style=flat" />
  
 </p>
 
  <p align="left">
-  
+ <img src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white&style=flat" />
+ <img src="https://img.shields.io/badge/-Insomnia-5849BE?logo=insomnia&logoColor=white&style=flat" />
+ <img src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white&style=flat" />
+ <img src="https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobe%20photoshop&logoColor=white&style=flat" />
  <img src="https://img.shields.io/badge/-Jamstack-F0047F?logo=jamstack&logoColor=white&style=flat" />
  <img src="https://img.shields.io/badge/-Wordpress-21759B?logo=wordpress&logoColor=white&style=flat" />
- <img src="https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobe%20photoshop&logoColor=white&style=flat" />
- <img src="https://img.shields.io/badge/-Microsoft Office-D83B01?logo=microsoft%20office&logoColor=white&style=flat" />
+
 
 
 </p>
