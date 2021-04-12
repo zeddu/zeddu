@@ -1,7 +1,7 @@
 
 
 
-<h2 align="left"> 🛠 Main tools</h2>
+<h2 align="left"> 🛠 Main tools & learning</h2>
 
 
 <p align="center">
