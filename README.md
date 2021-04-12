@@ -76,14 +76,14 @@ Databases:
 </p>
 
  <p align="left">
- <img src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white&style=flat" />
- <img src="https://img.shields.io/badge/-Insomnia-5849BE?logo=insomnia&logoColor=white&style=flat" />
- <img src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white&style=flat" />
- <img src="https://img.shields.io/badge/-MailChimp-FFE01B?logo=mailchimp&logoColor=white&style=flat" />
- <img src="https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobe%20photoshop&logoColor=white&style=flat" />
- <img src="https://img.shields.io/badge/-Codewars-B1361E?logo=codewars&logoColor=white&style=flat" />
- <img src="https://img.shields.io/badge/-Jamstack-F0047F?logo=jamstack&logoColor=white&style=flat" />
- <img src="https://img.shields.io/badge/-Wordpress-21759B?logo=wordpress&logoColor=white&style=flat" />
+ <img src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white&style=plastic" />
+ <img src="https://img.shields.io/badge/-Insomnia-5849BE?logo=insomnia&logoColor=white&style=plastic" />
+ <img src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white&style=plastic" />
+ <img src="https://img.shields.io/badge/-MailChimp-FFE01B?logo=mailchimp&logoColor=white&style=plastic" />
+ <img src="https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobe%20photoshop&logoColor=white&style=plastic" />
+ <img src="https://img.shields.io/badge/-Codewars-B1361E?logo=codewars&logoColor=white&style=plastic" />
+ <img src="https://img.shields.io/badge/-Jamstack-F0047F?logo=jamstack&logoColor=white&style=plastic" />
+ <img src="https://img.shields.io/badge/-Wordpress-21759B?logo=wordpress&logoColor=white&style=plastic" />
 
 </p>
 
@@ -91,6 +91,6 @@ Databases:
 <p align="center">
   
   Cerificates:    
- [<img src="https://img.shields.io/badge/-Responsive Web Design (300h)-0A0A23?logo=freeCodeCamp&logoColor=white&style=flat" />](https://www.freecodecamp.org/certification/zed-foxhound/responsive-web-design "View certificate on freeCodeCamp")
+ [<img src="https://img.shields.io/badge/-Responsive Web Design (300h)-0A0A23?logo=freeCodeCamp&logoColor=white&style=plastic" />](https://www.freecodecamp.org/certification/zed-foxhound/responsive-web-design "View certificate on freeCodeCamp")
 </p>
 
