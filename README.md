@@ -56,6 +56,7 @@ Databases:
  Deployment:  
  <img src="https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white&style=flat" />
  <img src="https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white&style=flat" />
+ <img src="https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat" />
 </p>
 
 <p align="center">
