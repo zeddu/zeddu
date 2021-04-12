@@ -73,7 +73,7 @@ Databases:
  <img src="https://img.shields.io/badge/-Jamstack-F0047F?logo=jamstack&logoColor=white&style=flat" />
  <img src="https://img.shields.io/badge/-Wordpress-21759B?logo=wordpress&logoColor=white&style=flat" />
  <img src="https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobe%20photoshop&logoColor=white&style=flat" />
- <img src="https://img.shields.io/badge/-Microsoft Office-D83B01?logo=microsoft%office&logoColor=white&style=flat" />
+ <img src="https://img.shields.io/badge/-Microsoft Office-D83B01?logo=microsoft%20office&logoColor=white&style=flat" />
 
 
 </p>
