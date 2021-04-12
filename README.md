@@ -4,6 +4,16 @@
 and I'm learning to be a full stack developer.
 </p>
 
+<p align="center">
+
+<img alt="Impossible" width="32px" src="https://i.pinimg.com/originals/9b/a2/71/9ba271bda9f06336c7cb07a76d8b4c49.png" />
+
+<img alt="Impossible" width="32px" src="https://cdn3.iconfinder.com/data/icons/impossible-shapes-volume-3/128/1a-512.png" />
+
+<img alt="Impossible" width="32px" src="https://i.pinimg.com/originals/a9/dc/3a/a9dc3ab32e0be9a8a9ba5c6c728b4a00.png" />
+
+</p>
+
 <img src="https://pixabay.com/get/g0b06cd788bc6ddd816c07e0710fbb74f935b4c99a3fe8837024e001cdb9e20d0d918b1623247b9d1232961285b83415b_1920.jpg" />
 
 <h2 align="left"> 🛠 Main tools & learning </h2>
