@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Zed <img src="https://www.codewars.com/users/silv999r/badges/micro" /></h1>
 
 <p align="center">
-and I'm learning to be a full stack developer.
+and I'm learning full stack development.
 </p>
 
 <p align="center">
