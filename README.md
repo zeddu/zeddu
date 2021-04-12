@@ -81,4 +81,3 @@ Databases:
  <img src="https://img.shields.io/badge/-Codewars-B1361E?logo=codewars&logoColor=white&style=flat" />
 </p>
 
-<img alt="Binary tunnel" src="https://cdn.pixabay.com/photo/2013/07/13/11/35/farmer-158432_960_720.png" />
