@@ -29,6 +29,7 @@ CSS:
  Frontend:  
  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat" />
  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat" />
+ <img src="https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white&style=flat" />
  
 </p>
 
