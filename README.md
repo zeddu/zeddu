@@ -73,5 +73,5 @@ Databases:
   Practice:    
  <img src="https://img.shields.io/badge/-freeCodeCamp-0A0A23?logo=freeCodeCamp&logoColor=white&style=flat" />
  <img src="https://img.shields.io/badge/-Codewars-B1361E?logo=codewars&logoColor=white&style=flat" />
- <img src="https://www.codewars.com/users/silv999r/badges/small" />
+ <img src="https://www.codewars.com/users/silv999r/badges/micro" />
 </p>
