@@ -72,10 +72,5 @@ Databases:
 
 </p>
 
-<p align="left">
-  
-<img src="https://www.codewars.com/users/silv999r/badges/micro" />
-
-</p>
 
 
