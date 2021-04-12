@@ -1,4 +1,8 @@
-<h2 align="left"> 🛠 Main tools & learning <img src="https://www.codewars.com/users/silv999r/badges/micro" /></h2>
+# 👋 Hi, I'm Zed. <img src="https://www.codewars.com/users/silv999r/badges/micro" />
+
+## and I'm learning to be a full stack developer.
+
+<h2 align="left"> 🛠 Main tools & learning </h2>
 
 
 <p align="center">
