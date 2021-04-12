@@ -67,9 +67,9 @@ Databases:
   Other tools:  
 
  <img src="https://img.shields.io/badge/-Excel-217346?logo=microsoft%20excel&logoColor=white&style=flat" />
- <img src="https://img.shields.io/badge/-Word-2B579A?logo=microsoft%word&logoColor=white&style=flat" />
- <img src="https://img.shields.io/badge/-Outlook-0078D4?logo=microsoft%outlook&logoColor=white&style=flat" />
- <img src="https://img.shields.io/badge/-Onenote-7719AA?logo=microsoft%onenote&logoColor=white&style=flat" />
+ <img src="https://img.shields.io/badge/-Word-2B579A?logo=microsoft%20word&logoColor=white&style=flat" />
+ <img src="https://img.shields.io/badge/-Outlook-0078D4?logo=microsoft%20outlook&logoColor=white&style=flat" />
+ <img src="https://img.shields.io/badge/-Onenote-7719AA?logo=microsoft%20onenote&logoColor=white&style=flat" />
  <img src="https://img.shields.io/badge/-VS Code-007ACC?logo=visual%20studio%20code&logoColor=white&style=flat" />
  <img src="https://img.shields.io/badge/-Microsoft Office-D83B01?logo=microsoft%20office&logoColor=white&style=flat" />
  
