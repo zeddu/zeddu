@@ -1,7 +1,7 @@
 <img src="https://www.codewars.com/users/silv999r/badges/micro" />
 
 
-<h2 align="left"> 🛠 Main tools & learning <img src="https://www.codewars.com/users/silv999r/badges/large" /></h2>
+<h2 align="left"> 🛠 Main tools & learning <img src="https://www.codewars.com/users/silv999r/badges/small" /></h2>
 
 
 <p align="center">
