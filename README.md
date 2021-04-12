@@ -66,6 +66,7 @@ Databases:
  <img src="https://img.shields.io/badge/-VS Code-007ACC?logo=visual%20studio%20code&logoColor=white&style=flat" />
  <img src="https://img.shields.io/badge/-Codewars-B1361E?logo=codewars&logoColor=white&style=flat" />
  <img src="https://img.shields.io/badge/-freeCodeCamp-0A0A23?logo=freeCodeCamp&logoColor=white&style=flat" />
+ <img src="https://img.shields.io/badge/-Adobe Photoshop-31A8FF?logo=adobe%20photoshop&logoColor=white&style=flat" />
 
 </p>
 
