@@ -91,6 +91,6 @@ Databases:
 <p align="center">
   
   Cerificates:    
- [<img src="https://img.shields.io/badge/-freeCodeCamp /- Responsive Web Design (300h)-0A0A23?logo=freeCodeCamp&logoColor=white&style=flat" />](https://www.freecodecamp.org/certification/zed-foxhound/responsive-web-design "View certificate on freeCodeCamp")
+ [<img src="https://img.shields.io/badge/-freeCodeCamp Responsive Web Design (300h)-0A0A23?logo=freeCodeCamp&logoColor=white&style=flat" />](https://www.freecodecamp.org/certification/zed-foxhound/responsive-web-design "View certificate on freeCodeCamp")
 </p>
 
