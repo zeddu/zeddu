@@ -14,7 +14,7 @@ and I'm learning full stack development.
 
 </p>
 
-
+<img alt="Binary tunnel" height="320px" src="https://cdn.pixabay.com/photo/2018/09/27/09/22/web-3706563_960_720.jpg" />
 
 <h2 align="left"> 🛠 Main tools & learning </h2>
 
