@@ -1,7 +1,7 @@
 
 
 
-<h2 align="left"> 🛠 Main tools & learning</h2>
+<h2 align="left"> 🛠 Main tools & learning <img src="https://www.codewars.com/users/silv999r/badges/micro" /></h2>
 
 
 <p align="center">
@@ -74,7 +74,7 @@ Databases:
 
 <p align="left">
   
-<img src="https://www.codewars.com/users/silv999r/badges/small" />
+<img src="https://www.codewars.com/users/silv999r/badges/micro" />
 
 </p>
 
