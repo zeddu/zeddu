@@ -4,7 +4,7 @@
 and I'm learning to be a full stack developer.
 </p>
 
-<img src="https://i.imgur.com/aHDAm6J.jpg" />
+<img src="https://i.imgur.com/SxK9Fei.jpg" />
 
 <h2 align="left"> 🛠 Main tools & learning </h2>
 
