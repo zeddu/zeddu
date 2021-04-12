@@ -4,7 +4,7 @@
 and I'm learning to be a full stack developer.
 </p>
 
-<img src="https://www.eway-crm.com/wp-content/uploads/2019/03/ai-artificial-intelligence-codes-1936299-1920x400.jpg" />
+<img src="https://cdn.pixabay.com/photo/2018/09/27/09/22/web-3706563_960_720.jpg" />
 
 <h2 align="left"> 🛠 Main tools & learning </h2>
 
