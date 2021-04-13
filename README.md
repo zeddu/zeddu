@@ -38,7 +38,6 @@ CSS:
  Backend:  
  <img src="https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white&style=flat" />
  <img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat" />
- <img src="https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white&style=flat" />
  <img src="https://img.shields.io/badge/-Apache-D22128?logo=apache&logoColor=white&style=flat" />
  
 </p>
