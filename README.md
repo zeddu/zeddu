@@ -77,7 +77,7 @@ Databases:
 
  <p align="left">
  <img src="https://img.shields.io/badge/-Insomnia-5849BE?logo=insomnia&logoColor=white&style=flat" />
- <img src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white&style=flat" />
+ <img src="https://img.shields.io/badge/-NPM-CB3836?logo=npm&logoColor=white&style=flat" />
  <img src="https://img.shields.io/badge/-MailChimp-FFE01B?logo=mailchimp&logoColor=white&style=flat" />
  <img src="https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobe%20photoshop&logoColor=white&style=flat" />
  <img src="https://img.shields.io/badge/-Codewars-B1361E?logo=codewars&logoColor=white&style=flat" />
