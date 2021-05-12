@@ -80,11 +80,21 @@ Databases:
  <img src="https://img.shields.io/badge/-NPM-CB3836?logo=npm&logoColor=white&style=flat" />
  <img src="https://img.shields.io/badge/-MailChimp-FFE01B?logo=mailchimp&logoColor=white&style=flat" />
  <img src="https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobe%20photoshop&logoColor=white&style=flat" />
- <img src="https://img.shields.io/badge/-Codewars-B1361E?logo=codewars&logoColor=white&style=flat" />
+ <img src="https://img.shields.io/badge/-Linux-000000?logo=linux&logoColor=white&style=flat" />  
  <img src="https://img.shields.io/badge/-Jamstack-F0047F?logo=jamstack&logoColor=white&style=flat" />
  <img src="https://img.shields.io/badge/-XAMPP-FB7A24?logo=xampp&logoColor=white&style=flat" />
  <img src="https://img.shields.io/badge/-Wordpress-21759B?logo=wordpress&logoColor=white&style=flat" />
 
+</p>
+
+
+<p align="center">
+  
+  Learning and practice:  
+ <img src="https://img.shields.io/badge/-freeCodeCamp-0A0A23?logo=freeCodeCamp&logoColor=white&style=flat" />
+ <img src="https://img.shields.io/badge/-Codewars-B1361E?logo=codewars&logoColor=white&style=flat" />
+ <img src="https://img.shields.io/badge/-Hack The Box-9FEF00?logo=hack%20the%20box&logoColor=white&style=flat" />
+ 
 </p>
 
 
