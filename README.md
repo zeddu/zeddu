@@ -80,7 +80,7 @@ Databases:
  <img src="https://img.shields.io/badge/-NPM-CB3836?logo=npm&logoColor=white&style=flat" />
  <img src="https://img.shields.io/badge/-MailChimp-FFE01B?logo=mailchimp&logoColor=white&style=flat" />
  <img src="https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobe%20photoshop&logoColor=white&style=flat" />
- <img src="https://img.shields.io/badge/-Linux-000000?logo=linux&logoColor=white&style=flat" />  
+ <img src="https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white&style=flat" />  
  <img src="https://img.shields.io/badge/-Jamstack-F0047F?logo=jamstack&logoColor=white&style=flat" />
  <img src="https://img.shields.io/badge/-XAMPP-FB7A24?logo=xampp&logoColor=white&style=flat" />
  <img src="https://img.shields.io/badge/-Wordpress-21759B?logo=wordpress&logoColor=white&style=flat" />
