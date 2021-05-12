@@ -66,8 +66,8 @@ Databases:
 <p align="center">
   
   Other tools:  
- <img src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white&style=flat" />
  <img src="https://img.shields.io/badge/-VS Code-007ACC?logo=visual%20studio%20code&logoColor=white&style=flat" />
+ <img src="https://img.shields.io/badge/-Sublime Text-FF9800?logo=sublime%20text&logoColor=white&style=flat" />
  <img src="https://img.shields.io/badge/-Excel-217346?logo=microsoft%20excel&logoColor=white&style=flat" />
  <img src="https://img.shields.io/badge/-Word-2B579A?logo=microsoft%20word&logoColor=white&style=flat" />
  <img src="https://img.shields.io/badge/-Outlook-0078D4?logo=microsoft%20outlook&logoColor=white&style=flat" />
@@ -78,6 +78,7 @@ Databases:
 </p>
 
  <p align="left">
+  <img src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white&style=flat" />
  <img src="https://img.shields.io/badge/-Insomnia-5849BE?logo=insomnia&logoColor=white&style=flat" />
  <img src="https://img.shields.io/badge/-NPM-CB3836?logo=npm&logoColor=white&style=flat" />
  <img src="https://img.shields.io/badge/-MailChimp-FFE01B?logo=mailchimp&logoColor=white&style=flat" />
