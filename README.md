@@ -8,6 +8,7 @@
 <p align="center">
 
 Languages:  
+  <img src="https://img.shields.io/badge/-C-000000?logo=c&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/-Bash-000000?logo=gnu%20bash&logoColor=white&style=flat" />
@@ -93,9 +94,12 @@ Databases:
   
   Learning and practice:  
  <img src="https://img.shields.io/badge/-freeCodeCamp-0A0A23?logo=freeCodeCamp&logoColor=white&style=flat" />
+ <img src="https://img.shields.io/badge/-JetBrains Academy-000000?logo=jetbrains&logoColor=white&style=flat" />
  <img src="https://img.shields.io/badge/-Codewars-B1361E?logo=codewars&logoColor=white&style=flat" />
  <img src="https://img.shields.io/badge/-Hack The Box-9FEF00?logo=hack%20the%20box&logoColor=white&style=flat" />
+ <img src="https://img.shields.io/badge/-HackerRank-2EC866?logo=HackerRank&logoColor=white&style=flat" />
  <img src="https://img.shields.io/badge/-TwilioQuest-F22F46?logo=twilio&logoColor=white&style=flat" />
+ <img src="https://img.shields.io/badge/-HackerEarth-2C3454?logo=HackerEarth&logoColor=white&style=flat" />
  
 </p>
 
