@@ -10,8 +10,11 @@
 Languages:  
   <img src="https://img.shields.io/badge/-C-000000?logo=c&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/-Typescript-3178C6?logo=Typescript&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/-Bash-000000?logo=gnu%20bash&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat" />
 
@@ -41,6 +44,8 @@ CSS:
  <img src="https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white&style=flat" />
  <img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat" />
  <img src="https://img.shields.io/badge/-Apache-D22128?logo=apache&logoColor=white&style=flat" />
+ <img src="https://img.shields.io/badge/-Laravel-E34F26?logo=laravel&logoColor=white&style=flat" />
+ <img src="https://img.shields.io/badge/-Ruby on Rails-CC0000?logo=ruby%20on%20rails&logoColor=white&style=flat" />
  
 </p>
 
