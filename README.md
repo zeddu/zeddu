@@ -13,6 +13,7 @@ Languages:
   <img src="https://img.shields.io/badge/-Typescript-3178C6?logo=Typescript&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/-Bash-000000?logo=gnu%20bash&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat" />
